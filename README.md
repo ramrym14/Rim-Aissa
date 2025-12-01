@@ -39,7 +39,7 @@
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="www.linkedin.com/in/rim-aissa" target="_blank">
+  <a href="[www.linkedin.com/in/rim-aissa](https://www.linkedin.com/in/rim-aissa)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Rim.Aissa@esprit.tn">
