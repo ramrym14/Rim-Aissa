@@ -2,7 +2,8 @@
   <tr>
     <td align="center" width="200">
       <!-- Replace this with your own logo if you have one -->
-      <img src="https://via.placeholder.com/180x180.png?text=R+A" width="180" alt="Rim Aissa Logo"/>
+      <img src="https://via.placeholder.com/180x180.png?text=R+A" width="180" alt="Capture d'écran 2025-12-01 153811.png
+"/>
     </td>
     <td align="left">
       <h1>Hey 👋, I'm <span style="color:#d946ef;">Rim Aissa</span></h1>
